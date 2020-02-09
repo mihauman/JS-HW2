@@ -13,9 +13,6 @@ if(skip){
             sum += i; 
         }
     }
-    else{
-        sum += i;  
-    }  
 }
 document.writeln(`<p>Start number: ${startValue}<p>`);
 document.writeln(`<p>End number: ${endValue}<p>`);
